@@ -1,0 +1,93 @@
+.container{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /*background: rgba(240, 242, 245, 255);*/
+  background-image: radial-gradient(circle at 13% 47%, rgba(140, 140, 140,0.03) 0%, rgba(140, 140, 140,0.03) 25%,transparent 25%, transparent 100%),radial-gradient(circle at 28% 63%, rgba(143, 143, 143,0.03) 0%, rgba(143, 143, 143,0.03) 16%,transparent 16%, transparent 100%),radial-gradient(circle at 81% 56%, rgba(65, 65, 65,0.03) 0%, rgba(65, 65, 65,0.03) 12%,transparent 12%, transparent 100%),radial-gradient(circle at 26% 48%, rgba(60, 60, 60,0.03) 0%, rgba(60, 60, 60,0.03) 6%,transparent 6%, transparent 100%),radial-gradient(circle at 97% 17%, rgba(150, 150, 150,0.03) 0%, rgba(150, 150, 150,0.03) 56%,transparent 56%, transparent 100%),radial-gradient(circle at 50% 100%, rgba(25, 25, 25,0.03) 0%, rgba(25, 25, 25,0.03) 36%,transparent 36%, transparent 100%),radial-gradient(circle at 55% 52%, rgba(69, 69, 69,0.03) 0%, rgba(69, 69, 69,0.03) 6%,transparent 6%, transparent 100%),linear-gradient(90deg, rgb(255,255,255),rgb(255,255,255));
+  padding: 1.5rem;
+}
+
+.container .left{
+  height: 50vh;
+  width: 60%;
+  padding-left: 3rem;
+}
+
+.container .right{
+  background: white;
+  height: auto;
+  width: 35%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.left .name{
+  font-size: 8vw;
+  font-family: "Agdasima", sans-serif;
+  font-weight: 700;
+  color: rgba(24, 119, 242, 255);
+}
+
+.left .question-no{
+  font-size: 3vw;
+  margin-top: 20px;
+}
+
+.left .question-no span{
+  color: rgba(24, 119, 242, 255);
+  font-size: 5vw;
+}
+
+.left .question{
+  margin-top: 20px;
+  font-size: 3vw;
+}
+
+.right .answers{
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.right .answers button{
+  width: 100%;
+  font-size: 1.8vw;
+  margin-bottom: 20px;
+  border: none;
+  background: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+  border-radius: 7px;
+  cursor: pointer;
+  transition: all .2s ease;
+  padding: 0.8rem 0;
+}
+
+.right .answers button:hover{
+  color: white;
+  /*background: rgba(24, 119, 242, 255);*/
+  /*background: rgba(66, 183, 42, 255);*/
+  background: rgb(103, 200, 102);
+}
+
+.scoreBord{
+  font-size: 3vw;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scoreBord span{
+  margin: 20px;
+  color: rgba(24, 119, 242, 255);
+  font-size: 5vw;
+  border-bottom: 5px solid rgba(24, 119, 242, 255);
+  
+}
