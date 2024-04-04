@@ -1,3 +1,7 @@
+# This a Quiz App Built Using ReactJS
+## consist of 10 Questions with four (4) options each.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
