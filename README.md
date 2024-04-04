@@ -16,7 +16,7 @@ https://github.com/MTeju/Quiz-App-ReactJS/assets/106768538/6aa8f388-76c9-46e2-9c
   + This Project is limited for the just 10 question, You can increase or decrease the total number of questions by updating by you own.
   + As soon as the user crosses the last question i.e. 10th one. This project will displays the score i.e. how many correct choice is done by the user.😉
 
-You can directly access the output by clicking the link [Click Here.](https://mteju.github.io/Quiz-App-ReactJS/)
+**You can directly access the output by clicking the link** [Click Here.](https://mteju.github.io/Quiz-App-ReactJS/)
 
 # Requirements
 + VS Code Editor
