@@ -34,6 +34,7 @@ https://github.com/MTeju/Quiz-App-ReactJS/assets/106768538/6aa8f388-76c9-46e2-9c
 + save and run the below command
   1. npm run dev
 
+##
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
