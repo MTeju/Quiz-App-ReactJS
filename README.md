@@ -18,6 +18,21 @@ https://github.com/MTeju/Quiz-App-ReactJS/assets/106768538/6aa8f388-76c9-46e2-9c
 
 You can directly access the output by clicking the link [Click Here.](https://mteju.github.io/Quiz-App-ReactJS/)
 
+# Requirements
++ VS Code Editor
++ Node JS ( Should be installed in your PC )
+
+# Steps to be carried out to access in your system locally or to modify your self.😉
+### In VScode terminal use command to create React App 
++ npm create vite@latest
+  1. give project name
+  2. select react
+  3. select javascript / javascript + swc
++ copy the file and past in the created folder after
++ make your own changes
++ save and run the below command
+  1. npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
