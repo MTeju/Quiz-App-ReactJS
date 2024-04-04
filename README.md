@@ -17,7 +17,7 @@ https://github.com/MTeju/Quiz-App-ReactJS/assets/106768538/6aa8f388-76c9-46e2-9c
   + As soon as the user crosses the last question i.e. 10th one. This project will displays the score i.e. how many correct choice is done by the user.😉
 
 **You can directly access the output by clicking the link** [Click Here.](https://mteju.github.io/Quiz-App-ReactJS/)
-
+##
 # Requirements
 + VS Code Editor
 + Node JS ( Should be installed in your PC )
